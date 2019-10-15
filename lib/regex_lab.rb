@@ -1,4 +1,7 @@
 def starts_with_a_vowel?(word)
+is_it_a_vowel = (aple ,banana , asticot)
+  is_it_a_vowel.each.start(a,e,i,) do
+    return
 
 end
 
